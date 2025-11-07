@@ -1,4 +1,4 @@
-Of course! Here is a comprehensive README file for your Python script. It explains the project's purpose, the methodology, how to run it, and what to expect from the output.
+
 
 Spam Email Classification Comparison
 
